@@ -6,7 +6,7 @@ Este projeto realiza uma análise exploratória dos dados de desempenho de estud
 
 ## 📁 Sobre o Dataset
 
-O conjunto de dados utilizado é o `StudentsPerformance.csv`, amplamente utilizado para fins educacionais. Ele contém 1.000 registros com as seguintes informações:
+O conjunto de dados utilizado é o `StudentsPerformance.csv`, amplamente utilizado para fins educacionais. Ele contém registros com as seguintes informações:
 
 - Gênero
 - Grupo étnico
